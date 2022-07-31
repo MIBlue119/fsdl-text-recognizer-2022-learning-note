@@ -17,8 +17,20 @@ This my learning note about the 2022 Full Stack Deep Learning(FSDL)
             This is a tools flow diagram to provide a deep learning project from 2022 FSDL courses
         </a>
 
-## Sources of the course
+## Resources of the course
 - FSDL 2022 
     - [fsdl-text-recognizer-2022](https://github.com/full-stack-deep-learning/fsdl-text-recognizer-2022): Source of the FSDL 2022 labs
     - [fsdl-text-recognizer-2022-labs](https://github.com/full-stack-deep-learning/fsdl-text-recognizer-2022-labs)
 
+## Other Resources
+### DL 
+- [Dive into Deep Learning](https://d2l.ai/): An Interactive Deep Learning Book with code,math and Discussions. Implemented with Pytorch ,Numpy/MXNet
+- [UvA Deep Learning Tutorials](https://uvadlc-notebooks.readthedocs.io/en/latest/index.html)
+- [NYU Deep Learning Spring 2021 Web Sites](https://atcold.github.io/NYU-DLSP21/)
+    - [NYU Deep Learning Spring 2021 Github Repo](https://github.com/Atcold/NYU-DLSP21)
+    - [Mathematical Tools for Data Science Websites](https://cds.nyu.edu/math-tools/)
+
+### MLops
+- [Made With ML](https://madewithml.com/courses/mlops/): Cover many sections about building a ML production
+    - Package and organize a python project 
+    - CI/CD workflows 
