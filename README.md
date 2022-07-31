@@ -25,10 +25,12 @@ This my learning note about the 2022 Full Stack Deep Learning(FSDL)
 ## Other Resources
 ### DL 
 - [Dive into Deep Learning](https://d2l.ai/): An Interactive Deep Learning Book with code,math and Discussions. Implemented with Pytorch ,Numpy/MXNet
-- [UvA Deep Learning Tutorials](https://uvadlc-notebooks.readthedocs.io/en/latest/index.html)
-- [NYU Deep Learning Spring 2021 Web Sites](https://atcold.github.io/NYU-DLSP21/)
+- [UvA Deep Learning Tutorials](https://uvadlc-notebooks.readthedocs.io/en/latest/index.html): An awesome tutorial 
+- [NYU Deep Learning Spring 2021 Web Sites](https://atcold.github.io/NYU-DLSP21/): YanLecunn's Deep Learning Course which covers many mathmatic part of the Deep Learning
     - [NYU Deep Learning Spring 2021 Github Repo](https://github.com/Atcold/NYU-DLSP21)
     - [Mathematical Tools for Data Science Websites](https://cds.nyu.edu/math-tools/)
+- [NTU HUNG-YI LEE's Machine Learning 2022 Course](https://speech.ee.ntu.edu.tw/~hylee/ml/2022-spring.php)
+
 
 ### MLops
 - [Made With ML](https://madewithml.com/courses/mlops/): Cover many sections about building a ML production
