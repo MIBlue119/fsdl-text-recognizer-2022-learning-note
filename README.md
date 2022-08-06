@@ -36,3 +36,6 @@ This my learning note about the 2022 Full Stack Deep Learning(FSDL)
 - [Made With ML](https://madewithml.com/courses/mlops/): Cover many sections about building a ML production
     - Package and organize a python project 
     - CI/CD workflows 
+
+### Pytorch example
+- https://github.com/rwightman/pytorch-image-models
